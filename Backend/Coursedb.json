@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": "c966",
+      "name": "python",
+      "description": "web application"
+    },
+    {
+      "id": "d77c",
+      "name": "html",
+      "description": "frontend web application"
+    },
+    {
+      "id": "afe4",
+      "name": "html",
+      "description": "frontend web application"
+    },
+    {
+      "id": "2ff8",
+      "name": "Dharani",
+      "description": "EEE"
+    },
+    {
+      "id": "afb8",
+      "name": "fghj",
+      "description": "cfgnm"
+    }
+  ]
+}
